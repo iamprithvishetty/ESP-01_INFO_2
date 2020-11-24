@@ -13,5 +13,6 @@ After extracting the Flash Tool *RUN APPLICATION ESP_DOWNLOAD_TOOL_V2.3*
 Vcc => 3.3V // GND => GND // GPIO0 => GND // GPIO2 => 3.3V
 CS => 3.3V // TXD => TX // RXD => RX
 #### You will see this Screen *Ignore my Settings*
+![alt text](https://github.com/iamprithvishetty/ESP-01_INFO_2/blob/main/Flash_Tool_Images/FlashTool1.JPG)
 
   
