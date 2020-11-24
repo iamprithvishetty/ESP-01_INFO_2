@@ -61,7 +61,7 @@ Go inside the extracted folder of ESP8266_AT_Bin_V1.7 and add the Path and Addre
 Remove the GPIO pins from the connection and Disconnect and Connect again Vcc to ESP-01
 
 #### Open Arduino IDE Serial Monitor set the Baud Rate and Carriage Return and *TYPE*
-        AT
+    AT
 ![alt text](https://github.com/iamprithvishetty/ESP-01_INFO_2/blob/main/Flash_Tool_Images/SerialMonitor.JPG)
 
-        AT+UART_DEF=115200,8,1,0,3
+    AT+UART_DEF=115200,8,1,0,3
