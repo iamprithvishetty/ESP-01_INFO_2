@@ -41,3 +41,17 @@ Go inside the extracted folder of ESP8266_AT_Bin_V1.7 and add the Path and Addre
 
 *Remember the name of the file doesn't exactly needs to be the same In my case the boot.bin was boot_v1.6.bin*
 
+![alt text](https://github.com/iamprithvishetty/ESP-01_INFO_2/blob/main/Flash_Tool_Images/FlashTool6.JPG)
+
+#### Mark the Checkbox
+
+![alt text](https://github.com/iamprithvishetty/ESP-01_INFO_2/blob/main/Flash_Tool_Images/FlashTool7.JPG)
+
+#### Disconnect the Vcc from ESP-01 again and press START when you see connecting in Terminal Connect Vcc to ESP-01 Back
+
+![alt text](https://github.com/iamprithvishetty/ESP-01_INFO_2/blob/main/Flash_Tool_Images/FlashTool8.JPG)
+![alt text](https://github.com/iamprithvishetty/ESP-01_INFO_2/blob/main/Flash_Tool_Images/FlashTool9.JPG)
+
+#### After finishing the Flashing
+
+![alt text](https://github.com/iamprithvishetty/ESP-01_INFO_2/blob/main/Flash_Tool_Images/FlashTool10.JPG)
