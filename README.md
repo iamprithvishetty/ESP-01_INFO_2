@@ -63,3 +63,5 @@ Remove the GPIO pins from the connection and Disconnect and Connect again Vcc to
 #### Open Arduino IDE Serial Monitor set the Baud Rate and Carriage Return and *TYPE*
         AT
 ![alt text](https://github.com/iamprithvishetty/ESP-01_INFO_2/blob/main/Flash_Tool_Images/SerialMonitor.JPG)
+
+        AT+UART_DEF=115200,8,1,0,3
