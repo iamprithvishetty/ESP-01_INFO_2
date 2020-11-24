@@ -9,8 +9,9 @@ Zip File Has been added above
 The Zip File has been added above
 ## Setting Up Flash Tool
 After extracting the Flash Tool *RUN APPLICATION ESP_DOWNLOAD_TOOL_V2.3*
-### Making Appropriat Connections in your ESP-01 *Esp-01 to Arduino Connections*
+### Making Appropriate Connections in your ESP-01 *Esp-01 to Arduino Connections*
 Vcc => 3.3V // GND => GND // GPIO0 => GND // GPIO2 => 3.3V
 CS => 3.3V // TXD => TX // RXD => RX
+#### You will see this Screen *Ignore my Settings*
 
   
