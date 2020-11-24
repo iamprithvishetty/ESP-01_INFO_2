@@ -15,4 +15,19 @@ CS => 3.3V // TXD => TX // RXD => RX
 #### You will see this Screen *Ignore my Settings*
 ![alt text](https://github.com/iamprithvishetty/ESP-01_INFO_2/blob/main/Flash_Tool_Images/FlashTool1.JPG)
 
-  
+Make Sure you have done the connections correctly
+
+Set the COM PORT *Check in Device Manager* & BAUD RATE *Usually 9600 or 115200*
+
+#### Next Disconnect the Vcc to ESP-01 and click *START*
+![alt text](https://github.com/iamprithvishetty/ESP-01_INFO_2/blob/main/Flash_Tool_Images/FlashTool2.JPG)
+![alt text](https://github.com/iamprithvishetty/ESP-01_INFO_2/blob/main/Flash_Tool_Images/FlashTool3.JPG)
+
+#### Now connect the ESP-01 to Vcc back again
+![alt text](https://github.com/iamprithvishetty/ESP-01_INFO_2/blob/main/Flash_Tool_Images/FlashTool4.JPG)
+![alt text](https://github.com/iamprithvishetty/ESP-01_INFO_2/blob/main/Flash_Tool_Images/FlashTool5.JPG)
+
+Check your QUAD: in the *Deteccted Info* and set *FLASH SIZE* as per the Documentation 
+Pg 3-5 of Documentation
+
+For Eg mine is *16 Bit*  
