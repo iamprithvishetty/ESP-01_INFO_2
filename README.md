@@ -27,7 +27,16 @@ Set the COM PORT *Check in Device Manager* & BAUD RATE *Usually 9600 or 115200*
 ![alt text](https://github.com/iamprithvishetty/ESP-01_INFO_2/blob/main/Flash_Tool_Images/FlashTool4.JPG)
 ![alt text](https://github.com/iamprithvishetty/ESP-01_INFO_2/blob/main/Flash_Tool_Images/FlashTool5.JPG)
 
-Check your QUAD: in the *Deteccted Info* and set *FLASH SIZE* as per the Documentation 
+Check your QUAD: in the *Detected Info* and set *FLASH SIZE* as per the Documentation 
 Pg 3-5 of Documentation
 
-For Eg mine is *16 Bit*  
+For Eg mine is *16 Bit*
+
+![alt text](https://github.com/iamprithvishetty/ESP-01_INFO_2/blob/main/Flash_Tool_Images/FlashSize.JPG)
+
+## Flashing the FIRMWARE
+As you can see in the above image there are *Files* and the *Address*they need to be flashed at.
+
+Go inside the extracted folder of FIRMWARE ESP8266_NONOS_SDK_V2.0.0_16_08_10 and add the Path and Address as shown in the documentation in the Flash Tool *Example of which I have shown below*
+
+*Remember the name of the file doesn't exactly needs to be the same In my case the boot.bin was boot_v1.6.bin*
