@@ -65,6 +65,7 @@ Remove the GPIO pins from the connection and Disconnect and Connect again Vcc to
 ![alt text](https://github.com/iamprithvishetty/ESP-01_INFO_2/blob/main/Flash_Tool_Images/SerialMonitor.JPG)
 
     AT+UART_DEF=115200,8,1,0,3
+    AT+UART_DEF=9600,8,1,0,0
     
 ### *Refrence*
 https://www.allaboutcircuits.com/projects/update-the-firmware-in-your-esp8266-wi-fi-module/#:~:text=Power%20up%20your%20ESP%20programming,flash%20download%20tool%20GUI%20window.
